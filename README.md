@@ -1,3 +1,13 @@
+<div align="center">
+
+# PriViScanner 🛡️ - Full Spectrum Recon Engine
+**Version 1.0 — Developed by: PriViSecurity**
+
+![PriVi-SPECTER Dashboard](PriViScanner.PNG)
+
+</div>
+
+
 # PriViScanner 🛡️ - Full Spectrum Recon Engine
 
 **PriViScanner** is a tactical reconnaissance and vulnerability scanning tool developed under the **PriViSecurity** brand. It combines infrastructure intelligence, DNS enumeration, and stealth vulnerability scanning into a single, automated workflow with a professional PDF reporting engine.
