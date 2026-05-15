@@ -33,11 +33,14 @@ python3 -m venv scanner
 source scanner/bin/activate
 pip install -r requirements.txt
 
+python3 priviscanner,py <target>
+
 ### 3. One-Touch Launcher (Optional but Recommended)
 
 chmod +x priviscan
 
 sudo ./priviscan <target>
+
 
 ### 4. Usage
 
@@ -53,6 +56,7 @@ Name: Prince Ubebe
 Brand: PriViSecurity
 
 Tagline: Vulnerability Research • Threat Intelligence • Security Automation
+
 ⚠️ Disclaimer
 
 This tool is for educational and ethical security testing purposes only. The developer is not responsible for any misuse or damage caused by this tool. Always obtain explicit permission before scanning any target.
